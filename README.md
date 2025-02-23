@@ -14,7 +14,7 @@ With NeoNest, we **redefined interactive learning** by blending an **AI-driven c
 
 **NeoNest** is an **AI-powered interactive learning companion** that transforms education into an **engaging, immersive experience** for children. This **cutting-edge magic mirror** features a **3D animated chicken chatbot** called "Neo", that interacts in real time—**tracking children’s movements, waving back, and engaging in fun, educational conversations**. But **NeoNest** takes learning even further. As Neo **explains concepts**, the **bottom half of the mirror dynamically generates real-time animated visualizations**, turning **abstract ideas into tangible, vibrant visuals**. Imagine a **glowing Earth spinning** as Neo **describes the solar system**! And right beside it, **NeoNest displays interactive pop-up text**—**highlighting key words and guiding kids to say them aloud**—reinforcing **reading, comprehension, and retention** in a **playful way**.  
 
-Designed for **homes, classrooms, and learning on the go**, **NeoNest fosters curiosity, attention retention, and an engaging learning experience**. The **AI-driven system** extracts **key topics**, generates **explanations**, and creates **real-time animations**, making education both **interactive and visually captivating**. It is currently available in **both Web App and Physical Magic Mirror Version**!
+Designed for **homes, classrooms, and learning on the go**, **NeoNest fosters curiosity, attention retention, and an engaging learning experience**. The **AI-driven system** extracts **key topics**, generates **explanations**, and creates **real-time animations**, making education both **interactive and visually captivating**. It is currently available as **both a web app and a physical Magic Mirror version**!
 
 **NeoNest** is not just a **learning tool**—it’s a **revolutionary AI-powered mentor and companion**, blending **conversation, animation, and interactive text** to make learning truly **unforgettable**. With its **portable, intuitive design**, **NeoNest** is the **future of smart, interactive education**. 
 
@@ -29,7 +29,7 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 - **Speech recognition and gesture tracking**, enabling natural and responsive interactions.  
 - **Interactive text guidance**, displaying **pop-up text** to reinforce reading and pronunciation.  
 - **Real-time educational animations**, visualizing learning concepts **as kids explore them**.  
-- **Portable design**, allowing NeoNest to be used in classrooms, at home, or on the go. **Available in both Web App and Physical Magic Mirror Version**.
+- **Portable design**, allowing NeoNest to be used in classrooms, at home, or on the go. It is currently available as **both a web app and a physical Magic Mirror version**!
 
 ### Product Features  
 
