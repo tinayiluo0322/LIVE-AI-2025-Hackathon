@@ -181,3 +181,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - OpenAI for providing the GPT API
 - AWS Services for image and animation processing
 - Contributors and maintainers of the project
+
+## Addendum
+
