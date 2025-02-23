@@ -119,6 +119,7 @@ NeoNest is just the beginning—we envision a future where **AI-powered, interac
 - Python 3.11+
 - OpenAI API key
 - AWS account with appropriate credentials
+- Stability AI API key
 - Required Python packages (see `requirements.txt`)
 
 ## Installation
@@ -141,6 +142,7 @@ OPENAI_API_KEY=your_openai_api_key
 AWS_ACCESS_KEY_ID=your_aws_access_key_id
 AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
 AWS_DEFAULT_REGION=us-east-1
+STABILITY_AI_API_KEY=your_stability_api_key
 ```
 
 ## Usage
