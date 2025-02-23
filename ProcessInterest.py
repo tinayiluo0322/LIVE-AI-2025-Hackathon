@@ -17,8 +17,8 @@ def process_interest(explorer: InterestExplorer) -> dict:
         'interest': [],
         'basic_exploration': [],
         'focus_aspect': [],
-        'focused_exploration': [],
-        'entities': []
+        'focused_exploration': []#,
+        #'entities': []
     }
     
     # Get user input
@@ -38,15 +38,15 @@ def process_interest(explorer: InterestExplorer) -> dict:
         focused_exploration = explorer.generate_with_focus(interest, focus)
         
         # Extract potential entities
-        print("\nExtracting potential entities for visualization...\n")
-        entities = explorer.potential_entities(focused_exploration, interest)
+        #print("\nExtracting potential entities for visualization...\n")
+        #entities = explorer.potential_entities(focused_exploration, interest)
     
     # Add results to dictionary
     results['interest'].append(interest)
     results['basic_exploration'].append(exploration)
     results['focus_aspect'].append(focus)
     results['focused_exploration'].append(focused_exploration)
-    results['entities'].append(json.dumps(entities))  # Convert list to JSON string
+    #results['entities'].append(json.dumps(entities))  # Convert list to JSON string
     
     return results
 

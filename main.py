@@ -50,9 +50,3 @@ if __name__ == "__main__":
                 print(f"Image: {result['image_path']}")
                 print(f"Animation: {result['animation_path']}")
 
-
-# if __name__ == "__main__":
-#     main()
-    # df = pd.read_csv('solar_system_results.csv")
-    # print("\nStructured Results:")
-    # print(df["entities"]["name"])
