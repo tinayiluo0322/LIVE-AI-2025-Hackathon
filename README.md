@@ -2,7 +2,7 @@
 <img width="400" alt="LiveAI_Mascot" src="https://github.com/user-attachments/assets/b1dc700b-d6d3-49b6-8230-68d75d04e7ae" />
 
 
-[📄 Read the Full Documentation](./neonest.pdf)
+[📄 Read the Full Documentation](./NEONEST.pdf)
 
 
 ## **Inspiration**  
