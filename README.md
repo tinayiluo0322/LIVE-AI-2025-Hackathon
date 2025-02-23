@@ -1,6 +1,7 @@
 # **NeoNest: The Magic Mirror That Brings Learning to Life**  
+<img width="400" alt="LiveAI_Mascot" src="https://github.com/user-attachments/assets/b1dc700b-d6d3-49b6-8230-68d75d04e7ae" />
 
-![Alt text](./imgs/LiveAI_Mascot.jpg)
+
 
 ## **Inspiration**  
 We set out to create a **transformative learning experience** for children that **combines education, interactivity, and AI-powered immersion**. Kids naturally engage with **friendly, playful companions**, so we asked ourselves—**what if an AI-powered buddy could not only talk, wave, and follow their movements but also create real-time animated explanations of any topic they want to learn?**  
