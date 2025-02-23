@@ -80,6 +80,10 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 
 ![Image](https://github.com/user-attachments/assets/c67741f6-5aa8-4ba7-88c4-4283bf2b7cdc)
 
+##### Microphone
+
+![Image](https://github.com/user-attachments/assets/7225793f-f106-4537-a705-ac7e1d8aca9f)
+
 ### Assembly & Integration  
 
 #### **Hardware Setup**  
