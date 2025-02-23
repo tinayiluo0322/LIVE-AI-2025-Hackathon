@@ -160,13 +160,27 @@ Follow the interactive prompts to:
 
 ```
 LIVE-AI-2025-Hackathon/
-├── main.py                         # Main application entry point
-├── InterestExplorer.py            # OpenAI integration for text generation
-├── ProcessInterest.py             # Interest processing logic
-├── EducationalAnimationPipeline.py # Animation generation pipeline
-├── text_to_image.py               # Image generation utilities
-├── requirements.txt               # Project dependencies
-└── .env                          # Environment variables (not in git)
+├── backend/
+│   ├── main.py                         # Main application entry point
+│   ├── InterestExplorer.py            # OpenAI integration
+│   ├── ProcessInterest.py             # Interest processing
+│   ├── EducationalAnimationPipeline.py # Animation pipeline
+│   ├── text_to_image.py               # AWS Titan integration
+│   └── image_to_animation.py          # Animation generation
+├── frontend/
+│   ├── src/
+│   │   ├── components/                 # React components
+│   │   ├── services/                   # API services
+│   │   └── App.js                     # Main React app
+│   └── public/                        # Static assets
+├── raspberry_pi/
+│   ├── camera_stream.py              # Video streaming
+│   ├── udp_connection.py             # UDP signal handling
+│   └── hardware_config.py            # Hardware setup
+├── config/
+│   ├── .env                          # Environment variables
+│   └── requirements.txt              # Python dependencies
+└── README.md                         # Project documentation
 ```
 
 ## Contributing
