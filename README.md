@@ -50,8 +50,8 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 #### **Software Stack**  
 - **React Web App**: Frontend UI framework.  
 - **GPT-3.5 Turbo**: Content generation, entity extraction, chatbot functionality.  
-- **Amazon Titan Image Generator**: Converts extracted text into images.  
-- **PIA (Personalized Image Animator)**: Transforms images into animations.  
+- **DALL-E**: Converts extracted text into images.  
+- **Stability AI**: Transforms images into animations.  
 - **Web Speech API**: Enables text-to-speech and speech recognition.  
 - **@tensorflow-models/coco-ssd**: Human movement detection.  
 - **@mediapipe/hands**: Hand gesture tracking.  
