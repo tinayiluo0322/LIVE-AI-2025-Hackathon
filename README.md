@@ -35,7 +35,7 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 
 #### 2. Real-Time AI-Generated Visuals  
 - **Concept Extraction**: Identifies key learning topics from chatbot conversations.  
-- **AI-Generated Illustrations**: Uses DALL-E for text-to-image conversion.  
+- **AI-Generated Illustrations**: Uses DALL-E 3 for text-to-image conversion.  
 - **Live Animations**: Converts images into dynamic animations via Stability AI.  
 
 #### 3. Interactive Learning Interface  
@@ -50,7 +50,7 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 #### **Software Stack**  
 - **React Web App**: Frontend UI framework.  
 - **GPT-3.5 Turbo**: Content generation, entity extraction, chatbot functionality.  
-- **DALL-E**: Converts extracted text into images.  
+- **DALL-E 3**: Converts extracted text into images.  
 - **Stability AI**: Transforms images into animations.  
 - **Web Speech API**: Enables text-to-speech and speech recognition.  
 - **@tensorflow-models/coco-ssd**: Human movement detection.  
