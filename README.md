@@ -59,13 +59,17 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 - **Stability AI**: Transforms images into animations.  
 - **Web Speech API**: Enables text-to-speech and speech recognition.  
 - **@tensorflow-models/coco-ssd**: Human movement detection.  
-- **@mediapipe/hands**: Hand gesture tracking.  
+- **@mediapipe/hands**: Hand gesture tracking.
+
+<img width="891" alt="Image" src="https://github.com/user-attachments/assets/95ca75d9-ff84-4036-b201-5075c275c47c" />
 
 #### **Hardware Components**  
 - **LCD Display (Magic Mirror)**: For visual interaction.  
 - **Raspberry Pi 4B (RPi)**: Core processing unit.  
 - **Arducam IMX708 Camera**: For movement and gesture tracking.  
 - **Audio Core HAT WM8060**: High-quality sound output.
+
+<img width="879" alt="Image" src="https://github.com/user-attachments/assets/b41a0a02-1ef6-43bb-8327-6e55dc476958" />
 
 ##### Magic Mirror & Microphone
 
