@@ -156,7 +156,7 @@ Follow the interactive prompts to:
 2. Choose a specific aspect to explore
 3. View generated images and animations
 
-## Project Structure (Need to modify this to have the pipeline listed clear)
+## Project Structure
 
 ```
 LIVE-AI-2025-Hackathon/
