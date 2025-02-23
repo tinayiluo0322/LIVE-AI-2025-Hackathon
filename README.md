@@ -72,7 +72,7 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 ![Image](https://github.com/user-attachments/assets/36f81ae7-5428-4e52-a6ab-4d177bee2330)
 
 
-##### Raspberry pie
+##### Raspberry pi
 
 ![Image](https://github.com/user-attachments/assets/41015efc-25bf-4fdf-b761-e48d9a0eeef3)
 
