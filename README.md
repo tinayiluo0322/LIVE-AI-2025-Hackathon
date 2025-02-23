@@ -67,7 +67,7 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 - **Arducam IMX708 Camera**: For movement and gesture tracking.  
 - **Audio Core HAT WM8060**: High-quality sound output.
 
-##### Magic Mirror 
+##### Magic Mirror & Microphone
 
 ![Image](https://github.com/user-attachments/assets/36f81ae7-5428-4e52-a6ab-4d177bee2330)
 
@@ -79,10 +79,6 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 ##### Camera
 
 ![Image](https://github.com/user-attachments/assets/c67741f6-5aa8-4ba7-88c4-4283bf2b7cdc)
-
-##### Microphone
-
-![Image](https://github.com/user-attachments/assets/d88fad90-b81e-475c-8ec1-f290a856ac0a)
 
 ### Assembly & Integration  
 
