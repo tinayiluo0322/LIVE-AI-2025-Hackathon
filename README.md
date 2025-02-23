@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **NeoNest: The Magic Mirror That Brings Learning to Life**  
 <img width="400" alt="LiveAI_Mascot" src="https://github.com/user-attachments/assets/b1dc700b-d6d3-49b6-8230-68d75d04e7ae" />
 
