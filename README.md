@@ -184,3 +184,21 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Addendum
 
+## Hardware
+
+### Demonstration streaming capability
+
+![Image](https://github.com/user-attachments/assets/7c0bab7f-7d92-4875-9c44-4618df21e18c)
+
+### Enabled raspberry pi to send UDP signals 
+
+![Image](https://github.com/user-attachments/assets/2e6eee0f-9ade-44ed-819a-51bda4d6e410)
+
+### Enabled raspberry pi to stream video capture
+
+![Image](https://github.com/user-attachments/assets/0bae2aad-a28f-410c-bd3b-5c0b7ff68d45)
+
+### Enabled UDP connection on receiver end
+
+![Image](https://github.com/user-attachments/assets/3edd32f2-87ee-4320-afc9-3cd58ed36583)
+
