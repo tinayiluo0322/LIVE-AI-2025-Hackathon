@@ -11,7 +11,7 @@ With NeoNest, we **redefined interactive learning** by blending an **AI-driven c
 
 ## Overiview of NeoNest 
 
-<img width="891" alt="Image" src="https://github.com/user-attachments/assets/a9afcc66-6981-4e7d-9aff-2bafe53c6771" />
+<img width="881" alt="Image" src="https://github.com/user-attachments/assets/12a73f36-38cb-49a7-9068-4fb9d35492fa" />
 
 **NeoNest** is an **AI-powered interactive learning companion** that transforms education into an **engaging, immersive experience** for children. This **cutting-edge magic mirror** features a **3D animated chicken chatbot** called "Neo", that interacts in real time—**tracking children’s movements, waving back, and engaging in fun, educational conversations**. But **NeoNest** takes learning even further. As Neo **explains concepts**, the **bottom half of the mirror dynamically generates real-time animated visualizations**, turning **abstract ideas into tangible, vibrant visuals**. Imagine a **glowing Earth spinning** as Neo **describes the solar system**! And right beside it, **NeoNest displays interactive pop-up text**—**highlighting key words and guiding kids to say them aloud**—reinforcing **reading, comprehension, and retention** in a **playful way**.  
 
