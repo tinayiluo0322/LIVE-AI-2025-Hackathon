@@ -19,6 +19,8 @@ class AnimationGenerator:
         self.output_dir = output_dir
         self.pipe = None
         self.adapter = None
+        self.device = "cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu"
+        print(f"Using device: {self.device}")
         os.makedirs(output_dir, exist_ok=True)
 
     def _setup_pipeline(self):
@@ -36,12 +38,20 @@ class AnimationGenerator:
                 torch_dtype=torch.float16,
             )
 
+            # Move pipeline to appropriate device
+            self.pipe.to(self.device)
+
             # Set up scheduler and optimizations
             self.pipe.scheduler = EulerDiscreteScheduler.from_config(
                 self.pipe.scheduler.config
             )
-            self.pipe.enable_model_cpu_offload()
-            self.pipe.enable_vae_slicing()
+            # Only enable these optimizations for CUDA
+            if self.device == "cuda":
+                self.pipe.enable_model_cpu_offload()
+                self.pipe.enable_vae_slicing()
+
+            # self.pipe.enable_model_cpu_offload()
+            # self.pipe.enable_vae_slicing()
 
         except Exception as e:
             raise RuntimeError(f"Failed to setup pipeline: {str(e)}")
@@ -133,18 +143,22 @@ class AnimationGenerator:
 
 def test_animation_generator():
     """Test function for the AnimationGenerator class."""
-    # Test parameters
-    test_image_path = (
-        "test_generated_images/image_123_5.png"  # Replace with actual test image path
-    )
-    test_prompt = "an evolving earth"
+   # Create test directories
+    os.makedirs("pipeline_outputs/generated_images", exist_ok=True)
+    os.makedirs("pipeline_outputs/animations", exist_ok=True)
+    # Create a test image if it doesn't exist
+    test_image_path = "./pipeline_outputs/generated_images/image_42_1.png"
+
+
+    test_prompt = "an shinning Sun"
 
     # Create generator instance
-    generator = AnimationGenerator(output_dir="test_outputs")
+    generator = AnimationGenerator(output_dir="./pipeline_outputs/animations")
 
+    
     # Generate test animation
     output_path, success = generator.generate_animation(
-        image_path=test_image_path, prompt=test_prompt, seed=42
+        image_path=test_image_path, prompt=test_prompt, seed=42,num_frames=8
     )
 
     if success:
