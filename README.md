@@ -66,7 +66,9 @@ NeoNest is a **revolutionary AI-powered magic mirror** that features:
 
 #### **Hardware Setup**  
 1. Connect RPi to the Magic Mirror.  
-2. Assemble Arducam and Audio HAT.  
+2. Assemble Arducam and Audio HAT.
+3. Enabled video streaming between RPi and compute base <- streaming picture (2 me in one screen+stream video capture)
+4. Allowed real-time video streaming between RPi and React Web App <- (UDP connection sender / receiver)
 
 #### **Software Deployment**  
 1. Load the React Web App onto RPi.  
