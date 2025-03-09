@@ -4,6 +4,22 @@
 
 [📄 Read the Full Documentation](./NEONEST.pdf)
 
+## Awards
+
+*2025 LIVE AI Ivy Plus Duke & Harvard Hackathon*
+
+🏅 Global Entry Awards:
+🥇 1st Global Grand Prize (Gold)
+🥇 AI & ML 1st Place
+🏆 Best Development
+🏆 Best Product
+
+🏅 Duke Campus Entry Awards:
+🥇 GoldNEONEST Prize
+🥇 AI/ML 1st Place
+🏆 Best Product Design
+🏆 Best Product Demo
+
 
 ## **Inspiration**  
 We set out to create a **transformative learning experience** for children that **combines education, interactivity, and AI-powered immersion**. Kids naturally engage with **friendly, playful companions**, so we asked ourselves—**what if an AI-powered buddy could not only talk, wave, and follow their movements but also create real-time animated explanations of any topic they want to learn?**  
