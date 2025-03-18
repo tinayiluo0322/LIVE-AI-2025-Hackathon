@@ -43,8 +43,6 @@ Designed for **homes, classrooms, and learning on the go**, **NeoNest fosters cu
 ## **End-to-End Model Pipeline (Software & Hardware Integration)**
 ![NeoNest_Pipeline](https://github.com/user-attachments/assets/5eee7e44-b5e0-46e8-b5fa-4e76b8dae545)
 
-![Alt text](./imgs/NeoNest_Pipeline.png)
-
 ## **What It Does**  
 NeoNest is a **revolutionary AI-powered magic mirror** that features:  
 - A **3D animated chicken chatbot** that talks, waves, and follows kids’ movements.  
