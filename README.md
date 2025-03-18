@@ -41,6 +41,7 @@ Designed for **homes, classrooms, and learning on the go**, **NeoNest fosters cu
 **NeoNest** is not just a **learning tool**—it’s a **revolutionary AI-powered mentor and companion**, blending **conversation, animation, and interactive text** to make learning truly **unforgettable**. With its **portable, intuitive design**, **NeoNest** is the **future of smart, interactive education**. 
 
 ## **End-to-End Model Pipeline (Software & Hardware Integration)**
+![NeoNest_Pipeline](https://github.com/user-attachments/assets/5eee7e44-b5e0-46e8-b5fa-4e76b8dae545)
 
 ![Alt text](./imgs/NeoNest_Pipeline.png)
 
