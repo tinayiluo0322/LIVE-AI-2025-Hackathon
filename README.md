@@ -4,6 +4,11 @@
 
 [📄 Read the Full Documentation](./NEONEST.pdf)
 
+[Watch the Youtube Video Demo](https://youtu.be/eABxtKxtZ2o)
+
+[Devpost Winning Competition Entry](https://devpost.com/software/neonest)
+
+
 ## Awards
 
 *2025 LIVE AI Ivy Plus Duke & Harvard Hackathon*
